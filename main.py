@@ -33,7 +33,7 @@ HTML_TEMPLATE = """
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>💀 MR KRIX ULTRA V2 💀</title>
+<title>⚜️9MAN-x-YAMDHUD⚜️</title>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 <style>
@@ -403,8 +403,8 @@ HTML_TEMPLATE = """
 
     <!-- HEADER -->
     <div class="header">
-        <h1 class="glitch">💀 MR KRIX ULTRA V2 💀</h1>
-        <p class="subtitle">[ ADVANCED INSTAGRAM ATTACK FRAMEWORK ]</p>
+        <h1 class="glitch">⚜️9MAN-x-YAMDHUD⚜️  INSTA SERVER </h1>
+        <p class="subtitle">[ ADVANCED INSTAGRAM SERVER OWNER 9MAN-x-YAMDHUD</p>
     </div>
 
     <!-- LIVE STATS -->
@@ -519,7 +519,7 @@ HTML_TEMPLATE = """
     </form>
 
     <div class="footer">
-        💀 MR KRIX ULTRA V2 • CODED WITH HATE • 2026 💀
+        ⚜️⚜️9MAN-x-YAMDHUD⚜️⚜️INSTA SERVER WP NO 8075498750⚜️
     </div>
 </div>
 
@@ -841,7 +841,7 @@ if __name__ == "__main__":
     attack_stats["start_time"] = None
     print("""
     ╔══════════════════════════════════════╗
-    ║   💀 MR KRIX ULTRA V2 LOADED 💀     ║
+    ║   💀9MAN-x-YAMDHUD                  ║
     ║   🌐 http://0.0.0.0:20979           ║
     ║   ⚡ READY TO DESTROY               ║
     ╚══════════════════════════════════════╝
